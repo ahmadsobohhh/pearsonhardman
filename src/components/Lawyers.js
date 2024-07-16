@@ -46,7 +46,7 @@ const Lawyers = ({ className = "" }) => {
           <div className="news-grid">
             <NewsItems
               maskGroup="/mask-group-9@2x.png"
-              nadaGeomorgant="Nada Geomorgant"
+              nadaGeomorgant="Nada Geoant"
             />
             <NewsItems
               maskGroup="/mask-group-10@2x.png"

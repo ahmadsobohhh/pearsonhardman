@@ -41,7 +41,7 @@ const Homepage = () => {
               <div className="lorem-ipsum-dolor-container">
                 <p className="blank-line">&nbsp;</p>
                 <p className="cum-mattis-mollis">
-                  Take a look at our law firm and what we do. Founded in 1752, before Canadian Independance, Pearson Hardman remains the best law firm on Earth.
+                  Take a look at our law firm and what we do. Founded in 1752, before Canadian Independence, Pearson Hardman remains the best law firm on Earth.
                 </p>
               </div>
               <div className="frame-container">

@@ -52,7 +52,8 @@ const FrameComponent6 = ({ className = "" }) => {
               className="arrow-right-32"
               loading="lazy"
               alt=""
-              src="/arrow--right-3.svg"
+              src="
+              /arrow--right-3.svg"
             />
           </div>
           <img className="frame-child3" alt="" src="/vector-3-1.svg" />
